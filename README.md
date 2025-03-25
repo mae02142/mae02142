@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white)
 
 ## 🔄 Git
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mae02142&show_icons=true&theme=transparent)
